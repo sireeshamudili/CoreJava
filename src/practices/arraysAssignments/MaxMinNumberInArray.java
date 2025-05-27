@@ -21,8 +21,6 @@ public class MaxMinNumberInArray {
 		}
 		System.out.println("Maximun number is:" +max);
 		System.out.println("Minimum number is:" +min);
-		
-
 	}
 
 }
